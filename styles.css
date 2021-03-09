@@ -194,13 +194,13 @@ display: block;
 .login__container--register {
     font-size: 14px;
 }
-.login__container-register a{
+.login__container--register a{
     color: white;
     font-weight: bold;
     font-size: 16px;
     text-decoration: none;
 }
-.login__container-register a:hover{
+.login__container--register a:hover{
     text-decoration: underline;
 }
 .input1 {
